@@ -43,7 +43,7 @@ namespace Treehouse.PracticeSession
 
         public void ListFilm(Action<Film> action)
         {
-            films.ForEach(action); //what is this?
+            films.ForEach(action); 
         }
 
         public bool IsEmpty()
@@ -55,7 +55,7 @@ namespace Treehouse.PracticeSession
         {
             Film entry = films.Find(
               delegate (Film a) {
-                  return a.title == title;  // what is this?
+                  return a.title == title;  
         }
             );
             return entry;
