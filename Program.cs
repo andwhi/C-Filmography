@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Treehouse.PracticeSession
 {
-    class FilmPrompt      //why is this outside the main method?
+    class FilmPrompt      
     {
         Filmography filmography;
 
@@ -12,7 +12,7 @@ namespace Treehouse.PracticeSession
             filmography = new Filmography();
         }
 
-        static void Main(string[] args) //why is this different?
+        static void Main(string[] args) 
         {
             string choice = "";
             FilmPrompt prompt = new FilmPrompt();
@@ -28,8 +28,8 @@ namespace Treehouse.PracticeSession
 
         void displayMenu()
         {
-            Console.WriteLine("Ingmar Bergman's Filmography");
-            Console.WriteLine("============================");
+            Console.WriteLine("Filmography Book");
+            Console.WriteLine("================= ");
             Console.WriteLine("To see the list of films, enter 'list'.");
             Console.WriteLine("To add a film, enter 'add'.");
             Console.WriteLine("To remove a film, enter 'remove'.");
