@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{D78EDA1E-3EEA-4814-9B8F-DEB8C0905B74}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterPages/Frontend.master.cs">
+    <Files>
+      <File FileName="Default.aspx" Line="13" Column="1" />
+      <File FileName="ControlsDemo.aspx" Line="14" Column="9" />
+      <File FileName="MasterPages/Frontend.master" Line="1" Column="1" />
+      <File FileName="MasterPages/Frontend.master.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NewWebSite" expanded="True">
+            <Node name="NewWebSite" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="MasterPages" expanded="True">
+                <Node name="Frontend.master" expanded="True" selected="True" />
+              </Node>
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="NewWebSite" expanded="True">
+            <Node name="NewWebSite" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="NewWebSite" expanded="True">
+                <Node name="NewWebSite.Default" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NewWebSite PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

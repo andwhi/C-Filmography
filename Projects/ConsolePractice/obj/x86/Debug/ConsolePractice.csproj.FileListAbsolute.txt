@@ -1,0 +1,5 @@
+/Users/andrew/Projects/ConsolePractice/bin/Debug/ConsolePractice.exe
+/Users/andrew/Projects/ConsolePractice/bin/Debug/ConsolePractice.pdb
+/Users/andrew/Projects/ConsolePractice/obj/x86/Debug/ConsolePractice.csproj.CoreCompileInputs.cache
+/Users/andrew/Projects/ConsolePractice/obj/x86/Debug/ConsolePractice.exe
+/Users/andrew/Projects/ConsolePractice/obj/x86/Debug/ConsolePractice.pdb

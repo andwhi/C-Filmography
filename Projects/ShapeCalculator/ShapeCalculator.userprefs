@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7FD4CB3D-CC76-42F2-97D2-CEE843D7CE29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shape.cs">
+    <Files>
+      <File FileName="Program.cs" Line="32" Column="88" />
+      <File FileName="Shape.cs" Line="15" Column="1" />
+      <File FileName="Tetrahedron.cs" Line="26" Column="1" />
+      <File FileName="SquarePyramid.cs" Line="26" Column="1" />
+      <File FileName="HexagonalPyramid.cs" Line="22" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ShapeCalculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

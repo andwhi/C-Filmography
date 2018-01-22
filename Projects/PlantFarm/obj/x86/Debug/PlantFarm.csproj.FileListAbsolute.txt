@@ -1,0 +1,5 @@
+/Users/andrew/Projects/PlantFarm/bin/Debug/PlantFarm.exe
+/Users/andrew/Projects/PlantFarm/bin/Debug/PlantFarm.pdb
+/Users/andrew/Projects/PlantFarm/obj/x86/Debug/PlantFarm.csproj.CoreCompileInputs.cache
+/Users/andrew/Projects/PlantFarm/obj/x86/Debug/PlantFarm.exe
+/Users/andrew/Projects/PlantFarm/obj/x86/Debug/PlantFarm.pdb

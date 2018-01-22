@@ -1,0 +1,3 @@
+/Users/andrew/Projects/ShapeCalculator/bin/Release/ShapeCalculator.exe
+/Users/andrew/Projects/ShapeCalculator/obj/x86/Release/ShapeCalculator.csproj.CoreCompileInputs.cache
+/Users/andrew/Projects/ShapeCalculator/obj/x86/Release/ShapeCalculator.exe

@@ -1,0 +1,5 @@
+/Users/andrew/Projects/NewWebSite/bin/NewWebSite.dll
+/Users/andrew/Projects/NewWebSite/bin/NewWebSite.pdb
+/Users/andrew/Projects/NewWebSite/obj/Debug/NewWebSite.csproj.CoreCompileInputs.cache
+/Users/andrew/Projects/NewWebSite/obj/Debug/NewWebSite.dll
+/Users/andrew/Projects/NewWebSite/obj/Debug/NewWebSite.pdb

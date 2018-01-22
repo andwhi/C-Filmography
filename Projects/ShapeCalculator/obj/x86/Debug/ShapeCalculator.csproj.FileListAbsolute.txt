@@ -1,0 +1,5 @@
+/Users/andrew/Projects/ShapeCalculator/bin/Debug/ShapeCalculator.exe
+/Users/andrew/Projects/ShapeCalculator/bin/Debug/ShapeCalculator.pdb
+/Users/andrew/Projects/ShapeCalculator/obj/x86/Debug/ShapeCalculator.csproj.CoreCompileInputs.cache
+/Users/andrew/Projects/ShapeCalculator/obj/x86/Debug/ShapeCalculator.exe
+/Users/andrew/Projects/ShapeCalculator/obj/x86/Debug/ShapeCalculator.pdb

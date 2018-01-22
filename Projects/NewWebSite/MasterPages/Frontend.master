@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" Inherits="NewWebSite.MasterPages.Frontend" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+	<title>Frontend</title>
+</head>
+<body>
+<div id="container">
+<form runat="server">
+    <asp:ContentPlaceHolder id="contentPlaceHolder" runat="server" /> 
+</form>
+</div>
+</body>
+</html>
